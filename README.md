@@ -2,4 +2,4 @@
 A hello-world repository
 
 
-hi its Martyna doing GitHub task from ZZIP
+hi it's Martyna doing GitHub task from ZZIP
